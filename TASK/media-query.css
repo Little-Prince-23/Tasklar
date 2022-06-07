@@ -1,0 +1,11 @@
+@media (max-width: 768px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    header{
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
